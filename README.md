@@ -68,9 +68,8 @@ It’s a reflection — a guide to choosing businesses worth believing in and ho
 Investing isn’t a single decision — it’s a series of understandings.  
 Each round of *Endure* refines clarity, removes noise, and moves one step closer to conviction.  
 
-| **Round** | **Name** |
-|------------|-----------|-------------|
-| **Round 0 – Initial Filter** | Discovery | 
+
+**Round 0 – Initial Filter** | Discovery 
 
 Each round has its own **markdown**, telling its own part of the story —  
 how data turns into decisions, and decisions into conviction.  
