@@ -10,10 +10,9 @@ The value analysis round determines whether a shortlisted stock is truly worth b
 
 ## The Files
 
-- **[3.1-CorePhilosophy.md](3.1-CorePhilosophy.md)** – The value investing mindset: bargain hunting, safety, and stock homecoming
-- **[3.2-KeyParameters.md](3.2-KeyParameters.md)** – Detailed explanation of CMP, Intrinsic Value (IV), and EPS Growth Rate (EPS-GR)
-- **[3.3-CoreCalculationSteps.md](3.3-CoreCalculationSteps.md)** – Step-by-step guide to calculating P/E, Intrinsic P/E, Intrinsic Value, and PEG ratio
-- **[3.4-BuyNoByDecision.md](3.4-BuyNoByDecision.md)** – Decision framework: when to buy, when to wait, and when to walk away
+- **[3.2-ValueAnalysis-KeyParameters.md](3.2-ValueAnalysis-KeyParameters.md)** – Detailed explanation of CMP, Intrinsic Value (IV), and EPS Growth Rate (EPS-GR)
+- **[3.3-ValueAnalysis-CoreCalculationSteps.md](3.3-ValueAnalysis-CoreCalculationSteps.md)** – Step-by-step guide to calculating P/E, Intrinsic P/E, Intrinsic Value, and PEG ratio
+- **[3.4-ValueAnalysis-BuyNoByDecision.md](3.4-ValueAnalysis-BuyNoByDecision.md)** – Decision framework: when to buy, when to wait, and when to walk away
 
 ## Quick Summary
 
