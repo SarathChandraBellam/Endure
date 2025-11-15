@@ -8,7 +8,7 @@ Life is simple, and so is stock investing when the focus is placed on compoundin
 
 ## Foundational Insight
 
-The initiative draws on the ideas captured in the book “Autobiography of a Stock” by Manoj Arora and the accompanying reflection “The Autobiography of a Stock.” The central question is straightforward: why do so few investors create enduring wealth despite universal pursuit? The consistent answer is discipline, attitude, and the willingness to stay invested when momentum fades.
+The initiative draws on the ideas captured in the book "Autobiography of a Stock" by Manoj Arora and the accompanying reflection "The Autobiography of a Stock." The central question is straightforward: why do so few investors create enduring wealth despite universal pursuit? The consistent answer is discipline, attitude, and the willingness to stay invested when momentum fades.
 
 ## Core Principles
 
@@ -19,9 +19,33 @@ The market does not owe returns; it rewards endurance. Four non-negotiable rules
 3. Never invest borrowed money or a borrowed mindset. Calm conviction requires ownership.
 4. Remain a principled human with a constructive attitude. Investing reflects character more than intellect.
 
+## Repository Structure
+
+This repository serves as a centralized framework for disciplined investing, combining methodologies with practical implementation.
+
+### Methodologies
+
+Investment methodologies organized by strategy and timeframe:
+
+- **[LongTerm](Methodologies/LongTerm/)** - Long-term investment framework focused on enduring businesses and value compounding
+  - Discovery process for identifying opportunities
+  - Stability checks for business fundamentals
+  - Intrinsic value analysis and decision frameworks
+
+- **[ShortTerm](Methodologies/ShortTerm/)** - Short-term trading strategies and frameworks (coming soon)
+
+- **[MutualFunds](Methodologies/MutualFunds/)** - Mutual fund analysis and selection methodologies (coming soon)
+
+### Framework
+
+**[Framework](Framework/)** - Code implementation of the methodologies
+- Programmatic tools and utilities
+- Analysis calculators and models
+- Screening and filtering implementations
+- Backtesting and reporting tools
 
 ## Desired Outcome
 
 The goal is not chasing the next multibagger; it is building long-term partnerships with enduring companies. The most durable edge is temperament, not information. Predictive precision is less valuable than the ability to endure volatility.
 
-> “The market is a mirror. It reflects not what you know, but who you are.” — Endure Philosophy
+> "The market is a mirror. It reflects not what you know, but who you are." — Endure Philosophy
